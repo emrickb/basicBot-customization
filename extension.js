@@ -53,11 +53,11 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
-        language: "english",
-        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
+        botName: "EMRICKB-BOT",
+        language: "french",
+        chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/fr.json",
+        startupCap: 200, // 1-200
+        startupVolume: 35, // 0-100
         startupEmoji: false, // true or false
         maximumAfk: 120,
         afkRemoval: true,
